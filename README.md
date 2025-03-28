@@ -18,4 +18,4 @@ Analyzed **34,384+ hotel bookings** across 5 datasets to uncover trends in occup
 - **Data**: 5 relational CSV files (bookings, hotels, rooms, dates, aggregated bookings)
 
 ## Visualization
-![Hotel Booking Trends](images/visualization.png)
+![Hotel Booking Trends](Piechart.png)
