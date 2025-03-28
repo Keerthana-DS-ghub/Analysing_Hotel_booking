@@ -1,5 +1,5 @@
 # Hotel-Booking-Insights-A-Data-Driven-Approach
-Analyzed 34K+ hotel bookings using Python to identify occupancy trends, revenue drivers, and data quality issues.
+Analyzedhotel bookings using Python to identify occupancy trends, revenue drivers, and data quality issues.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3+-brightgreen)
@@ -16,3 +16,6 @@ Analyzed **34,384+ hotel bookings** across 5 datasets to uncover trends in occup
 - **Languages**: Python
 - **Libraries**: Pandas, Matplotlib, Plotly
 - **Data**: 5 relational CSV files (bookings, hotels, rooms, dates, aggregated bookings)
+
+## Visualization
+![Hotel Booking Trends](images/visualization.png)
