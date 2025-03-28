@@ -6,7 +6,7 @@ Analyzedhotel bookings using Python to identify occupancy trends, revenue driver
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 ## 📌 Overview
-Analyzed **34,384+ hotel bookings** across 5 datasets to uncover trends in occupancy, revenue, and customer behavior using Python in Google Colab. Key insights:
+Analyzed **hotel bookings** across 5 datasets to uncover trends in occupancy, revenue, and customer behavior using Python in Google Colab. Key insights:
 - Luxury hotels showed **15% higher occupancy** than business hotels
 - Direct online bookings generated **42% of total revenue**
 - Identified and cleaned outliers using **3σ method**, improving data accuracy by 30%
