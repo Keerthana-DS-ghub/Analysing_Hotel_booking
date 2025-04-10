@@ -1,3 +1,5 @@
+<img src="banner/banner.png" alt="Hotel Booking Insights Banner" width="100%">
+
 # Hotel-Booking-Insights-A-Data-Driven-Approach
 Analyzedhotel bookings using Python to identify occupancy trends, revenue drivers, and data quality issues.
 
